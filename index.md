@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2022/01/07/third-page-hero-image.jpg"
+banner_image: "/uploads/2022/01/07/about-page-hero-image.jpg"
 layout: landing-page
 heading: Belkirk College
 partners:
