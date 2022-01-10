@@ -1,3 +1,9 @@
+# NOTES
+Per [Jekyll](https://jekyllrb.com/docs/variables/):
+>All the variables set via the command line and your _config.yml are available through the site variable. For example, if you have foo: bar in your configuration file, then it will be accessible in Liquid as site.foo. Jekyll does not parse changes to _config.yml in watch mode, you must restart Jekyll to see changes to variables.
+
+Ergo, if you're making changes to the `SITE Menus` in Forestry, you'll need to restart the preview server to see your changes. To read up on the `SITE Menus` feature, see [Jekyll Menus](https://github.com/forestryio/jekyll-menus).
+
 # Forestry Jekyll demo
 
 A Jekyll demo site for [Forestry CMS](https://forestry.io).
