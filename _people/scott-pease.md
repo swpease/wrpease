@@ -11,4 +11,4 @@ linkedin: ''
 ---
 Scott has been assisting Paul with the analytical side of his consulting work since the early 2000's.
 
-Scott received an MS degree in public health from the University of Washington.
+Scott received an MS degree in public health from the University of Washington. 
