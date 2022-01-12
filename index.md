@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2022/01/07/fourth-page-hero-image.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Warren Richard Pease
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -30,5 +30,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
 
 ---
