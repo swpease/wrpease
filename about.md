@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2022/01/07/third-page-hero-image.jpg"
+banner_image: "/uploads/2022/01/07/about-page-hero-image.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
