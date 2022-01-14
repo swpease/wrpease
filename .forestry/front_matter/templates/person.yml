@@ -36,4 +36,5 @@ fields:
   hidden: true
   default: person
 pages:
+- _people/paul-pease.md
 - _people/scott-pease.md
