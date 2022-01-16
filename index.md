@@ -20,6 +20,8 @@ sub_heading: Improving Sales Organization Performance
 textline: |-
   Warren Richard Pease, LLC
 
+  &nbsp;
+
   Making Excellence a Habit
 hero_button:
   text: Learn more
