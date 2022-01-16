@@ -17,12 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Improving Sales Organization Performance
-textline: |-
-  Warren Richard Pease, LLC
-
-  &nbsp;
-
-  Making Excellence a Habit
+textline: "Warren Richard Pease, LLC\n\n&nbsp; \n\nMaking Excellence a Habit"
 hero_button:
   text: Learn more
   href: "/about"
