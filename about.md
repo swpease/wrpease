@@ -5,8 +5,8 @@ banner_image: "/uploads/2022/01/07/about-page-hero-image.jpg"
 heading: 'About '
 sub_heading: Warren Richard Pease
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: "_\"We are what we repeatedly do. Excellence, then, is not an act, but a
+  habit.\"_ \n\nAristotle"
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
