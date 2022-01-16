@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Sales Organization Consulting Services
+sub_heading: Improving Sales Organization Performance
 textline: |
   Belkirk College of Engineering
 
@@ -30,5 +30,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
+published: false
 
 ---
