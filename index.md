@@ -33,10 +33,3 @@ menu:
 
 ---
 Warren Richard Pease LLC focuses on your revenue growth. In addition to customization, we believe organic business growth through improving sales productivity and performance is a healthy, long-term business strategy. This is done with a no-nonsense approach, which includes asking tough questions Our clients understand that the effort required to change will be somewhat painful in the short term but In the long-term generates results.
-
-* Numbers don’t drive behavior: **_Behavior drives numbers._**
-* Use **_metrics, measures, and milestones_** with **_Mutual Action Planning_** to deliver real change in real time.
-* Is **_technology_** an asset, or an impediment?
-* Discover and unleash each salesperson’s **_talent_**.
-* **_Communications:_** Is it timely and pertinent?
-* **_Adapt_** to take advantage of a new opportunity or act on a threat before it becomes a crisis.
