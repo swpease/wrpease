@@ -8,8 +8,7 @@ services:
   description: Client- specific programs to improve teamwork and communications internal
     and external to the sales organization.
   icon: ''
-- description: Collaborating with management to develop and deliver sales productivity
-    improvement programs.
+- description: Developing and delivering sales productivity improvement programs.
   heading: Sales Team Productivity Improvement
   icon: ''
 - heading: Sales Analytics
