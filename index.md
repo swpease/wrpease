@@ -4,14 +4,18 @@ banner_image: "/uploads/2022/01/07/fourth-page-hero-image.jpg"
 layout: landing-page
 heading: Warren Richard Pease
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- heading: Teamwork and Communications
+  description: Client- specific programs to improve teamwork and communications internal
+    and external to the sales organization.
+  icon: ''
+- description: Collaborating with management to develop and deliver sales productivity
+    improvement programs.
+  heading: Sales Team Productivity Improvement
+  icon: ''
+- heading: Sales Analytics
+  description: Identifying Sales Key Performance Indicators and developing Analytics
+    reporting for sales KPI's.
+  icon: ''
 sub_heading: Improving Sales Organization Performance
 textline: Behavior Drives Numbers
 hero_button:
