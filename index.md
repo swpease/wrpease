@@ -17,7 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Improving Sales Organization Performance
-textline: Making Excellence a Habit
+textline: ''
 hero_button:
   text: Learn more
   href: "/about"
