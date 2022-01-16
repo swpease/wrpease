@@ -4,7 +4,7 @@ date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
 banner_image: ''
-sub_heading: A post-modern taking on Engineering in the Digital World
+sub_heading: Get your reps to sell your product/ service when you aren't watching.
 tags:
 - engineering
 - research
