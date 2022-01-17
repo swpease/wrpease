@@ -2,10 +2,10 @@
 	<header id="banner" style="background-image: url('{{ page.banner_image | absolute_url }}');">
 		<div class="container pure-g">
 			<div class="pure-u-1 pure-u-md-1">
-				<header class="call-to-action" style="max-width:500px;">
-					<h1>{{ page.heading | default: page.title }}</h1>
+				<header class="call-to-action" style="max-width:520px;">
+					<h1 style="background-color: rgba(100, 100, 100, 0.75);padding: 0 10px;border-radius: 4px;">{{ page.heading | default: page.title }}</h1>
 					{% if page.sub_heading and page.sub_heading != "" %}
-						<h2>{{ page.sub_heading }}</h2>
+						<h2 style="background-color: rgba(100, 100, 100, 0.75);padding: 0 10px;border-radius: 4px;">{{ page.sub_heading }}</h2>
 					{% endif %}
 					{% if page.hero_button %}
 					<div>
