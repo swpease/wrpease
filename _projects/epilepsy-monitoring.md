@@ -5,9 +5,7 @@ categories: []
 description: A portable device for epileptic patients.
 banner_image: ''
 sub_heading: Get your reps to sell your product/ service when you aren't watching.
-tags:
-- engineering
-- research
+tags: []
 slug: ''
 
 ---
@@ -36,4 +34,4 @@ Summary analysis/ recommendations going forward
 
 ### Sta
 
-### 
+###
