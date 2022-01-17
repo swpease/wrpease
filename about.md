@@ -2,8 +2,8 @@
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2022/01/07/about-page-hero-image.jpg"
-heading: 'About '
-sub_heading: Warren Richard Pease
+heading: About Us
+sub_heading: ''
 layout: landing-page
 textline: "_\"We are what we repeatedly do. Excellence, then, is not an act, but a
   habit.\"_ \n\nAristotle"
