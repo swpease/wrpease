@@ -5,8 +5,10 @@ banner_image: "/uploads/2022/01/07/about-page-hero-image.jpg"
 heading: About Us
 sub_heading: ''
 layout: landing-page
-textline: "_\"We are what we repeatedly do. Excellence, then, is not an act, but a
-  habit.\"_ \n\nAristotle"
+textline: |-
+  "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+
+  Aristotle
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
