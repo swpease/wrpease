@@ -3,7 +3,7 @@ title: Independent Sales Rep Channel Performance Improvement
 date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: A portable device for epileptic patients.
-banner_image: ''
+banner_image: "/uploads/2022/01/18/celebrate-success.jpg"
 sub_heading: Get your reps to sell your product/ service when you aren't watching.
 tags: []
 slug: ''
