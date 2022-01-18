@@ -15,7 +15,7 @@ This program can be broad-brush, or narrow in scope depending on the situational
 
 ## Identify Key Objectives
 
-Every independent sales channel situation is different, yet they are fundamentally the same. e portable EEG montoring device (PEMD) is a combination platform of a head-mounted recording syst.
+Every independent sales channel situation is different, yet they are fundamentally the same.
 
 * Earning Mind Share
 * 
@@ -34,4 +34,4 @@ Summary analysis/ recommendations going forward
 
 ### Sta
 
-###
+### 
