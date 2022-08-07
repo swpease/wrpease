@@ -18,7 +18,7 @@ This program can be broad-brush, or narrow in scope depending on the situational
 Every independent sales channel situation is different, yet they are fundamentally the same.
 
 * Earning Mind Share
-* 
+* Set and Achieve Agreed Territory Objectives Through Mutual Action Planning
 
 ## Process
 
@@ -31,7 +31,3 @@ establish timeline
 Deliver content
 
 Summary analysis/ recommendations going forward
-
-### Sta
-
-### 
