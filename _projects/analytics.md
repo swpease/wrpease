@@ -4,7 +4,7 @@ date: '2016-04-20T00:00:00.000+00:00'
 categories: []
 description: 'Computer-Based Training for Cogntive Behavioural Therapy: An Addictions
   Program for Canada'
-banner_image: "/uploads/2018/02/17/bridge3.jpg"
+banner_image: ''
 sub_heading: Identifying Key Metrics and Measures and Performance Analytics
 tags: []
 slug: ''
