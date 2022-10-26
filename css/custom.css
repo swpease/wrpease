@@ -101,3 +101,7 @@
 .breadcrumbs a:focus {
     text-decoration: underline
 }
+
+.logo a:focus {
+    text-decoration: underline
+}
