@@ -62,8 +62,12 @@
     background: #f9f9f9
 }
 
-.navigation>li>a:focus {
-    color: #8b2004
+.navigation>li>a:focus, .navigation>li>a:hover {
+    color: #8ba004
+}
+
+#banner header a.pure-button:focus {
+    background-color: #8ba004;
 }
 
 .button-outline:focus {
