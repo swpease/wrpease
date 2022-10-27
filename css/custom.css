@@ -80,6 +80,10 @@
     outline: dashed 1px;
 }
 
+h1.logo a:focus {
+    outline: dotted 1px black;
+}
+
 .grid-layout .card:focus-within {
     box-shadow: 0 4px 6px rgba(0, 0, 0, .15), 0 3px 3px rgba(0, 0, 0, .23)
 }
