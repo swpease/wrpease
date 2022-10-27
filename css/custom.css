@@ -76,10 +76,8 @@
     border-color: #8b2004
 }
 
-.column-list-layout .post .post-header:focus-within {
-    box-shadow: 0 1px 3px rgba(0, 0, 0, .12), 0 1px 2px rgba(0, 0, 0, .24);
-    /* outline: dashed 1px; */
-        /*box-shadow: 0 4px 6px rgba(0,0,0,0.15), 0 3px 3px rgba(0,0,0,0.23);*/
+.column-list-layout .post .post-body h3:focus-within {
+    outline: dashed 1px;
 }
 
 .grid-layout .card:focus-within {
