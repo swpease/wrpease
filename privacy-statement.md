@@ -1,7 +1,7 @@
 ---
 title: Privacy Statement
 heading: Privacy Statement
-# permalink: "/privacystatement.html"
+# permalink: "/privacy-statement.html"
 # layout: default
 
 ---
