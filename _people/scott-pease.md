@@ -5,7 +5,7 @@ layout: person
 title: Scott Pease
 sub_heading: Analyst
 thumbnail: "/uploads/2022/01/07/spease2012_square.png"
-email: scott@wrpease.com
+email: swpease@gmail.com
 linkedin: ''
 
 ---

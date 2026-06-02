@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2022/01/07/fourth-page-hero-image.jpg"
 layout: landing-page
-heading: Warren Richard Pease
+heading: The Pease Group
 services:
 - heading: Teamwork and Communications
   description: Client- specific programs to improve teamwork and communications internal
@@ -28,4 +28,4 @@ menu:
     weight: 1
 
 ---
-Warren Richard Pease, LLC focuses on your revenue growth. In addition to customization, we believe organic business growth through improving sales productivity and performance is a healthy, long-term business strategy. This is done with a no-nonsense approach, which includes asking tough questions. Our clients understand that the effort required to change will be somewhat painful in the short term but in the long-term generates results.
+The Pease Group LLC focuses on your revenue growth. In addition to customization, we believe organic business growth through improving sales productivity and performance is a healthy, long-term business strategy. This is done with a no-nonsense approach, which includes asking tough questions. Our clients understand that the effort required to change will be somewhat painful in the short term but in the long-term generates results.

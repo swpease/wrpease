@@ -1,6 +1,6 @@
-title: Warren Richard Pease, LLC
-short_title: WRP
-description: Website for Warren Richard Pease, LLC
+title: The Pease Group LLC
+short_title: TPG
+description: Website for The Pease Group LLC
 baseurl:
 permalink: "/:path/"
 defaults:
