@@ -6,7 +6,7 @@ I installed [rbenv](https://github.com/rbenv/rbenv) per the suggestion [here](ht
 I then had to delete my Gemfile.lock file, per the suggestion [here](https://stackoverflow.com/questions/68411134/how-do-i-resolve-this-bundle-update-error-when-trying-to-use-jekyll).
 I also updated the `bundle` version listed in the lock file prior (running `bundle update --bundler`), though that might have automatically happened anyway with this step.
 
-I then ran into an issue with jekyll-menus. I found a solution [here](https://github.com/forestryio/jekyll-menus/issues/29). My current local project did the manual fix route, as the git-sourced specifier in the config file failed. My current worry is how this will work out when I try to deploy it, because presumably my webhost will use the config file to install stuff, so it won't have my modified file.
+I then ran into an issue with jekyll-menus. I found a solution [here](https://github.com/forestryio/jekyll-menus/issues/29). My current local project did the manual fix route for the file at ".../vendor/bundle/ruby/4.0.0/gems/jekyll-menus-0.6.1/lib/jekyll/menus.rb", as the git-sourced specifier in the config file failed. My current worry is how this will work out when I try to deploy it, because presumably my webhost will use the config file to install stuff, so it won't have my modified file.
 
 
 # NOTES
