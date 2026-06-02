@@ -1,3 +1,14 @@
+# NOTES for 2026
+I had no memory of how this worked. `bundle exec jekyll serve` did not work, and it took quite a while to figure out what was up.
+
+I installed [rbenv](https://github.com/rbenv/rbenv) per the suggestion [here](https://stackoverflow.com/questions/51126403/you-dont-have-write-permissions-for-the-library-ruby-gems-2-3-0-directory-ma) of fixing the Ruby issue I was having.
+
+I then had to delete my Gemfile.lock file, per the suggestion [here](https://stackoverflow.com/questions/68411134/how-do-i-resolve-this-bundle-update-error-when-trying-to-use-jekyll).
+I also updated the `bundle` version listed in the lock file prior (running `bundle update --bundler`), though that might have automatically happened anyway with this step.
+
+I then ran into an issue with jekyll-menus. I found a solution [here](https://github.com/forestryio/jekyll-menus/issues/29). My current local project did the manual fix route, as the git-sourced specifier in the config file failed. My current worry is how this will work out when I try to deploy it, because presumably my webhost will use the config file to install stuff, so it won't have my modified file.
+
+
 # NOTES
 Per [Jekyll](https://jekyllrb.com/docs/variables/):
 >All the variables set via the command line and your _config.yml are available through the site variable. For example, if you have foo: bar in your configuration file, then it will be accessible in Liquid as site.foo. Jekyll does not parse changes to _config.yml in watch mode, you must restart Jekyll to see changes to variables.
