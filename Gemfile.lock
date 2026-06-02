@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/swpease/jekyll-menus.git
+  revision: 9a3bf585c3e30c7399835cce492a054b63dc4cca
+  specs:
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -77,8 +84,6 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-menus (0.6.1)
-      jekyll (>= 3.6, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
     jekyll-tagging (1.1.0)
@@ -169,7 +174,7 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-archives
   jekyll-feed
-  jekyll-menus
+  jekyll-menus!
   jekyll-tagging
   tzinfo-data
 
@@ -208,7 +213,7 @@ CHECKSUMS
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-archives (2.3.0) sha256=2dbd8ce22212fbace81fe2c9aa4152a6e21c748bcc626f135af5acfd813375f6
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
-  jekyll-menus (0.6.1) sha256=796df514b31be703eacb57acc7aa98b3fe7463cea8467c4d56af6a4590039180
+  jekyll-menus (0.6.1)
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
   jekyll-tagging (1.1.0) sha256=24cab3d0f9920381028597667b1ea977479d95cffe271e64f4c394e64b4a09e3
   jekyll-watch (2.2.1) sha256=bc44ed43f5e0a552836245a54dbff3ea7421ecc2856707e8a1ee203a8387a7e1
