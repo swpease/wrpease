@@ -33,4 +33,4 @@ This Privacy Statement was last revised on November 2, 2022. We may change this 
 
 ### How to contact us:
 
-paulrpease@gmail.com 
+info@thepeasegroupllc.com

@@ -5,7 +5,7 @@ layout: person
 title: Paul Pease
 sub_heading: Partner
 thumbnail: "/uploads/2022/01/17/paul-headshot-2020.png"
-email: paulrpease@gmail.com
+# email: 
 linkedin: ''
 
 ---
