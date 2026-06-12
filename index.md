@@ -6,16 +6,16 @@ heading: The Pease Group
 services:
 - heading: Teamwork and Communications
   description: Client- specific programs to improve teamwork and communications internal
-    and external to the sales organization.
+    and external to the organization.
   icon: ''
-- description: Developing and delivering sales productivity improvement programs.
-  heading: Sales Team Productivity Improvement
+- description: Developing and delivering business productivity improvement programs.
+  heading: Employee Productivity Improvement
   icon: ''
-- heading: Sales Analytics
-  description: Identifying Sales Key Performance Indicators and developing Analytics
-    reporting for sales KPI's.
+- heading: Business Analytics
+  description: Identifying Key Performance Indicators and developing Analytics
+    reporting for business KPI's.
   icon: ''
-sub_heading: Improving Sales Organization Performance
+sub_heading: Improving Organization Performance
 textline: Behavior Drives Numbers
 hero_button:
   text: Learn more
@@ -28,4 +28,4 @@ menu:
     weight: 1
 
 ---
-The Pease Group LLC focuses on your revenue growth. In addition to customization, we believe organic business growth through improving sales productivity and performance is a healthy, long-term business strategy. This is done with a no-nonsense approach, which includes asking tough questions. Our clients understand that the effort required to change will be somewhat painful in the short term but in the long-term generates results.
+The Pease Group LLC focuses on your revenue growth. In addition to customization, we believe organic business growth through improving productivity and performance is a healthy, long-term business strategy. This is done with a no-nonsense approach, which includes asking tough questions. Our clients understand that the effort required to change will be somewhat painful in the short term but in the long-term generates results.
