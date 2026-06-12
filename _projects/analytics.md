@@ -13,7 +13,7 @@ slug: ''
 
 Identifying the key performance metrics and measures that are pertinent, reliable, and accurate is the key to both employee focus and performance improvement. 
 
-## Sales KPI's
+## KPI's
 
 * There is a lot of data, but what are the one, two, or three things at most that matter, day in and day out?
 * Employees are paid for their time. Is their time being utilized to grow the business?
